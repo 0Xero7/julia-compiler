@@ -1,0 +1,4 @@
+name = "JuliaCompiler"
+uuid = "d646614c-a6f0-4413-9015-8fa486c251a3"
+authors = ["smpsm <smpsmp13@gmail.com>"]
+version = "0.1.0"
